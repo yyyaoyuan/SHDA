@@ -80,7 +80,7 @@ Note that, for SSAN, you first need to edit the add_dependencies.py and add_path
 
 # Acknowledgements
 
-We would like to express our deep gratitude to the authors of all SHDA approaches utilized in this paper, and thank you for open-sourcing your codes to promote the development of the SHDA field. In addition, if you have any licensing issues, please feel free to contact yaoyuan(dot)hitsz(at)gmail(dot)com.
+We would like to express our deep gratitude to the authors of all SHDA approaches utilized in this paper, and we sincerely thank them for open-sourcing their codes to promote the development of the SHDA field.  In addition, if you have any licensing issues, please feel free to contact yaoyuan(dot)hitsz(at)gmail(dot)com.
 
 # References
 
