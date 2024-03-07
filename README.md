@@ -85,17 +85,31 @@ We would like to express our deep gratitude to the authors of all SHDA approache
 # References
 
 [1] W. Li, L. Duan, D. Xu, and I. W. Tsang, “Learning with augmented features for supervised and semi-supervised heterogeneous domain adaptation,” TPAMI, vol. 36, no. 6, pp. 1134–1148, 2014.
+
 [2] Y. H. H. Tsai, Y. R. Yeh, and Y. C. F. Wang, “Learning cross-domain landmarks for heterogeneous domain adaptation,” in CVPR, 2016, pp.5081–5090.
+
 [3] Y. Yao, Y. Zhang, X. Li, and Y. Ye, “Discriminative distribution alignment: A unified framework for heterogeneous domain adaptation,” Pattern Recognition, vol. 101, p. 107165, 2020.
+
 [4] W.-Y. Chen, T.-M. H. Hsu, Y.-H. Tsai, Y.-C. F. Wang, and M.-S. Chen, “Transfer neural trees for heterogeneous domain adaptation,” in ECCV, 2016.
+
 [5] Y. Yao, Y. Zhang, X. Li, and Y. Ye, “Heterogeneous domain adaptation via soft transfer network,” in ACM MM, 2019, p. 1578–1586.
+
 [6] S. Li, B. Xie, J. Wu, Y. Zhao, C. H. Liu, and Z. Ding, “Simultaneous semantic alignment network for heterogeneous domain adaptation,” in ACM MM, 2020, p. 3866–3874.
+
 [7] Z. Fang, J. Lu, F. Liu, and G. Zhang, “Semi-supervised heterogeneous domain adaptation: Theory and algorithms,” TPAMI, vol. 45, no. 1, pp. 1087–1105, 2023.
+
 [8] C.-C. Chang and C.-J. Lin, “Libsvm: a library for support vector machines,” ACM TIST, vol. 2, no. 3, pp. 1–27, 2011
+
 [9] K. Saenko, B. Kulis, M. Fritz, and T. Darrell, “Adapting visual category models to new domains,” in ECCV, 2010, pp. 213–226.
+
 [10] G. Griffin, A. Holub, and P. Perona, “Caltech-256 object category dataset,” California Institute of Technology, Tech. Rep. 7694, 2007
+
 [11] M. Amini, N. Usunier, and C. Goutte, “Learning from multiple partially observed views - an application to multilingual text categorization,” in NeurIPS, 2009, pp. 28–36.
+
 [12] T.-S. Chua, J. Tang, R. Hong, H. Li, Z. Luo, and Y. Zheng, “Nus-wide: A real-world web image database from national university of singapore,” in CIVR, 2009, pp. 48:1–48:9.
+
 [13] J. Deng, W. Dong, R. Socher, L. Li, K. Li, and L. Fei-Fei, “Imagenet: A large-scale hierarchical image database,” in CVPR, 2009, pp. 248–255.
+
 [14] M. Abadi, P. Barham, J. Chen, Z. Chen, A. Davis, J. Dean, M. Devin, S. Ghemawat, G. Irving, M. Isard, M. Kudlur, J. Levenberg, R. Monga, S. Moore, D. G. Murray, B. Steiner, P. Tucker, V. Vasudevan, P. Warden, M. Wicke, Y. Yu, and X. Zheng, “Tensorflow: A system for large-scale machine learning,” in OSDI, 2016, pp. 265–283.
+
 [15] Paszke A, Gross S, Massa F, et al. Pytorch: An imperative style, high-performance deep learning library. in NeurIPS, 2019, 32.
