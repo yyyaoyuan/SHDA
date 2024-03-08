@@ -34,7 +34,7 @@ All of the datasets can be downloaded from https://drive.google.com/drive/folder
 conda create -n runenv python=3.6
 conda activate runenv
 
-pip install tensorflow-gpu==1.4
+conda install tensorflow-gpu==1.4
 conda install cudatoolkit=8.0
 conda install cudnn=6.0
 conda install scipy
@@ -48,11 +48,11 @@ conda install scikit-learn
 conda create -n ssan -y python=3.6
 conda activate ssan
 conda install -y ipython pip
-pip install torch==1.3.1       or  conda install torch==1.3.1
-pip install matplotlib==3.1.2
-pip install scipy==1.3.2
-pip install numpy==1.17.4
-pip install scikit_learn==0.22.1
+conda install torch==1.3.1
+conda install matplotlib==3.1.2
+conda install scipy==1.3.2
+conda install numpy==1.17.4
+conda install scikit_learn==0.22.1
 ```
 
  
