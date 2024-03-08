@@ -36,7 +36,7 @@ result = 'JMEA_test'
 if __name__ == "__main__":
     # parameters
     tf.set_random_seed(1234)
-    beta = 0.001  # control MMD loss 0.001 (good for cifar10 not for cifar100 (0.00001))
+    beta = 0.001  # control MMD loss 0.001 (good for NUS-WIDE+ImageNet-8 not for Office+Caltech-10 and Multilingual Reuters Collection (0.0001))
     lr = 0.001  # learning rate 0.001 for almost cases
     T = 300  # the total iter number 300 for normal
     T1 = 0
