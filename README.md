@@ -16,7 +16,7 @@ Currently, we summarize seven SHDA approaches in the Baselines folder, i.e., SHF
 8. [SVMt](https://www.csie.ntu.edu.tw/~cjlin/libsvm/) (Support Vector Machine) [8]
 9. NNt (a Simple Neural Network)
 
-In addition, we have open-sourced up our noise generation codes in the Noise_Generation folder.
+In addition, we have open-sourced our noise generation codes in the Noise_Generation folder.
 
 # Datasets
 
@@ -80,7 +80,7 @@ Note that, for SSAN, you first need to edit the add_dependencies.py and add_path
 
 # Acknowledgements
 
-We would like to express our deep gratitude to the authors of all SHDA approaches utilized in this paper for open-sourcing their codes, which greatly promotes the development of the SHDA field. In addition, if you have any licensing issues, please feel free to contact yaoyuan(dot)hitsz(at)gmail(dot)com.
+We would like to express our deep gratitude to the authors of all SHDA approaches utilized in this paper for open-sourcing their codes, which greatly promotes the advancement of the SHDA field. In addition, if you have any licensing issues, please feel free to contact yaoyuan(dot)hitsz(at)gmail(dot)com.
 
 # References
 
