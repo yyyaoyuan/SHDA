@@ -47,7 +47,6 @@ if __name__ == "__main__":
     length = len(source_exp)
     # iter = 10  # for final, run 10 and get average results
     iter = 1 # for test
-    acc_stn_list = multiprocessing.Manager().list()
     total_STN = np.empty((1,length),dtype=object)
 
     for i in range(0,length):
@@ -62,6 +61,7 @@ if __name__ == "__main__":
         xs_label_all = source['source_labels']
         xs = preprocessing.normalize(xs, norm='l2')
         _, len_labels = xs_label_all.shape
+        acc_stn_list = multiprocessing.Manager().list()
         acc_stn = np.zeros((len_labels,iter))
         
         for k in range(0, len_labels):
