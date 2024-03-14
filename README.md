@@ -78,6 +78,8 @@ nohup python main.py --source ND100 --target TS5 --cuda 0 --nepoch 1000 --partit
 ```
 Note that, for SSAN, you first need to edit the add_dependencies.py and add_path.py to set different datasets. Then, you can modify the parameters of --source and -- target to load different datasets. 
 
+4. We utilize an NVIDIA 1080 Ti GPU to run STN, JMEA, SSAN, and NNT. While various GPUs may yield slight discrepancies in experimental results, such differences are minor.
+
 # Acknowledgements
 
 We would like to express our deep gratitude to the authors of all SHDA approaches utilized in this paper for open-sourcing their codes, which greatly promotes the advancement of the SHDA field. In addition, if you have any licensing issues, please feel free to contact yaoyuan(dot)hitsz(at)gmail(dot)com.
