@@ -1,6 +1,6 @@
 # SHDA
 
-This repository contains source codes necessary to reproduce the results presented in "Noises are Transferable in Semi-supervised Heterogeneous Domain Adaptation". In addition, **to the best of our knowledge, it is the first relatively comprehensive SHDA open-source repository, which can be used to further inspire promising research**. 
+This repository contains source codes necessary to reproduce the results presented in "Noises Contain Transferable Knowledge: Understanding Semi-supervised Heterogeneous Domain Adaptation from an Empirical Perspective". In addition, **to the best of our knowledge, it is the first relatively comprehensive SHDA open-source repository, which can be used to further inspire promising research**. 
 
 # Approaches
 
