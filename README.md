@@ -28,7 +28,7 @@ All of the datasets can be downloaded from https://drive.google.com/drive/folder
 
 1. SHFA, CDLS, DDACL, TNT, and SVMt have been implemented using MATLAB, you need to install MATLAB to run them. 
 
-2. STN, JMEA, and NNT have been implemented using the Tensorflow framework [14], you need to follow the steps below to configure the running environment, please see details in [STN](https://github.com/yyyaoyuan/STN) .
+2. STN, JMEA, and NNT have been implemented using the Tensorflow framework [14], you need to follow the steps below to configure the running environment, please see details in [STN](https://github.com/yyyaoyuan/STN).
 
 ```
 conda create -n runenv python=3.6
@@ -42,7 +42,7 @@ conda install matplotlib
 conda install scikit-learn
 ```
 
-3. SSAN has been implemented using the Pytorch framework [15], you need to follow the steps below to configure the running environment, please see details in [SSAN](https://github.com/BITDA/SSAN) .
+3. SSAN has been implemented using the Pytorch framework [15], you need to follow the steps below to configure the running environment, please see details in [SSAN](https://github.com/BIT-DA/SSAN).
 
 ```
 conda create -n ssan -y python=3.6
