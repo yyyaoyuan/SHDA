@@ -2,6 +2,8 @@
 
 This repository contains source codes necessary to reproduce the results presented in "Noises Contain Transferable Knowledge: Understanding Semi-supervised Heterogeneous Domain Adaptation from an Empirical Perspective". In addition, **to the best of our knowledge, it is the first relatively comprehensive SHDA open-source repository, which can be used to further inspire promising research**. 
 
+Paper is now available online: https://arxiv.org/pdf/2502.13573
+
 # Approaches
 
 Currently, we summarize seven SHDA approaches in the Baselines folder, i.e., SHFA [1], CDLS [2], DDACL [3], TNT [4], STN [5], SSAN [6], and JMEA [7], based on their open-source codes. In addition, we also include two supervised learning methods, i.e., SVMt and NNt.
