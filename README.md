@@ -85,6 +85,10 @@ Note that, for SSAN, you first need to edit the add_dependencies.py and add_path
 
 We would like to express our deep gratitude to the authors of all SHDA approaches utilized in this paper for open-sourcing their codes, which greatly promotes the advancement of the SHDA field. In addition, if you have any licensing issues, please feel free to contact yaoyuan(dot)hitsz(at)gmail(dot)com.
 
+# Contact
+
+If you have any issues with our codes, please feel free to contact **Yuan Yao** (yaoyuan.hitsz@gmail.com) or describe them in Issues.
+
 # References
 
 [1] W. Li, L. Duan, D. Xu, and I. W. Tsang, “Learning with augmented features for supervised and semi-supervised heterogeneous domain adaptation,” TPAMI, vol. 36, no. 6, pp. 1134–1148, 2014.
