@@ -25,7 +25,7 @@ In addition, we have open-sourced our noise generation codes in the Noise_Genera
 # Datasets
 
 In our experiments, we adopt three widely-used datasets: Office+Caltech-10 [9], [10], Multilingual Reuters Collection [11], and NUS-WIDE+ImageNet-8 [12], [13]. In addition, we also expose the noise datasets constructed by ourselves.
-All of the datasets can be downloaded from https://drive.google.com/drive/folders/15fTKaA0m0aT-7MT19khcyMNCyXUGT8nA?usp=drive_link. You can unzip those folders and put them under the Datasets folder. In addition, all noise domains can be generated using scripts in the Noise_Generation folder
+All of the datasets can be downloaded from https://drive.google.com/drive/folders/15fTKaA0m0aT-7MT19khcyMNCyXUGT8nA?usp=drive_link or https://huggingface.co/datasets/yyyaoyuan/SHDADatases. You can unzip those folders and put them under the Datasets folder. In addition, all noise domains can be generated using scripts in the Noise_Generation folder
 
 # Installation
 
